@@ -1,7 +1,7 @@
 Music-DDL
 ========
 
-![](https://i.imgur.com/jSKxKoO.png)
+![](https://i.imgur.com/y8kpZXo.png)
 
 Simple music downloader built on top of [octlif](https://github.com/oclif/oclif), that downloads music from multiples DDL sites as sources.
 
