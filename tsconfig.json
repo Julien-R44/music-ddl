@@ -9,7 +9,8 @@
     "noImplicitAny": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "target": "es2017"
+    "target": "es2017",
+    "esModuleInterop": true
   },
   "include": [
     "src/**/*"
